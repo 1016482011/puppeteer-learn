@@ -1,2 +1,2 @@
 # puppeteer-learn
-puppeteer试用
+puppeteer初用
